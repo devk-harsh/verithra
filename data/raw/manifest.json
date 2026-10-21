@@ -1,0 +1,110 @@
+[
+  {
+    "source_id": "authentication",
+    "title": "Authentication and expired credentials",
+    "source_type": "documentation",
+    "source_url": "",
+    "path": "authentication.md",
+    "provenance": "locally_authored_demo",
+    "license": "CC0-1.0"
+  },
+  {
+    "source_id": "permissions",
+    "title": "Authorization and role scopes",
+    "source_type": "documentation",
+    "source_url": "",
+    "path": "permissions.md",
+    "provenance": "locally_authored_demo",
+    "license": "CC0-1.0"
+  },
+  {
+    "source_id": "rate-limits",
+    "title": "Rate limiting and retry timing",
+    "source_type": "documentation",
+    "source_url": "",
+    "path": "rate-limits.md",
+    "provenance": "locally_authored_demo",
+    "license": "CC0-1.0"
+  },
+  {
+    "source_id": "idempotency",
+    "title": "Idempotent ticket creation",
+    "source_type": "documentation",
+    "source_url": "",
+    "path": "idempotency.md",
+    "provenance": "locally_authored_demo",
+    "license": "CC0-1.0"
+  },
+  {
+    "source_id": "webhooks",
+    "title": "Webhook signatures and duplicate deliveries",
+    "source_type": "documentation",
+    "source_url": "",
+    "path": "webhooks.md",
+    "provenance": "locally_authored_demo",
+    "license": "CC0-1.0"
+  },
+  {
+    "source_id": "timeouts",
+    "title": "Gateway timeouts and slow downstream services",
+    "source_type": "documentation",
+    "source_url": "",
+    "path": "timeouts.md",
+    "provenance": "locally_authored_demo",
+    "license": "CC0-1.0"
+  },
+  {
+    "source_id": "pagination",
+    "title": "Cursor pagination for ticket lists",
+    "source_type": "documentation",
+    "source_url": "",
+    "path": "pagination.md",
+    "provenance": "locally_authored_demo",
+    "license": "CC0-1.0"
+  },
+  {
+    "source_id": "uploads",
+    "title": "Attachment uploads and size constraints",
+    "source_type": "documentation",
+    "source_url": "",
+    "path": "uploads.md",
+    "provenance": "locally_authored_demo",
+    "license": "CC0-1.0"
+  },
+  {
+    "source_id": "configuration",
+    "title": "Environment configuration and startup validation",
+    "source_type": "documentation",
+    "source_url": "",
+    "path": "configuration.md",
+    "provenance": "locally_authored_demo",
+    "license": "CC0-1.0"
+  },
+  {
+    "source_id": "connectivity",
+    "title": "TLS and DNS connection failures",
+    "source_type": "documentation",
+    "source_url": "",
+    "path": "connectivity.md",
+    "provenance": "locally_authored_demo",
+    "license": "CC0-1.0"
+  },
+  {
+    "source_id": "workers",
+    "title": "Queued jobs and worker health",
+    "source_type": "documentation",
+    "source_url": "",
+    "path": "workers.md",
+    "provenance": "locally_authored_demo",
+    "license": "CC0-1.0"
+  },
+  {
+    "source_id": "concurrency",
+    "title": "Optimistic concurrency and ticket versions",
+    "source_type": "documentation",
+    "source_url": "",
+    "path": "concurrency.md",
+    "provenance": "locally_authored_demo",
+    "license": "CC0-1.0"
+  }
+]
